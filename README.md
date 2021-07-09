@@ -1,2 +1,2 @@
-# JavaScript-ES6-Essential
+# JavaScript-ES6-Essential DigitalInnovationOne
 JavaScript ES6 Essential
